@@ -25,4 +25,15 @@ gulp.task('watch', function() {
 
 });
 
+// gulp.task('watch', function(done) {
+//     // initBrowser();
+//     gulp.watch("./app/index.html", gulp.parallel('gulp-watch'));
+//     // gulp.watch("**/*", {cwd: './dist/'}, gulp.parallel('live-server'));
+//     // gulp.watch("scss/**/*.scss", gulp.parallel('css-compile'));
+//     // gulp.watch(["dist/css/*.css", "!dist/css/*.min.css"], gulp.parallel('css-minify'));
+//     // gulp.watch("js/**/*.js", gulp.parallel('js-build'));
+//     // gulp.watch(["dist/js/*.js", "!dist/js/*.min.js"], gulp.parallel('js-minify'));
+//     // gulp.watch("**/*", {cwd: './img/'}, gulp.parallel('img-compression'));
+//   });
+
   
