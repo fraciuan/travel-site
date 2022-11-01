@@ -2,7 +2,7 @@
   "name": "travel-site",
   "version": "1.0.0",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-watch": "^4.3.5",
     "node-sass": "^4.12.0"
   },
